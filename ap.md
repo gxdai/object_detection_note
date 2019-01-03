@@ -4,4 +4,4 @@ mAP is the metric for measuring the accuracy of object detection. **It is the av
 
 * Precision: The percentage of the positive predictions are correct.
 * Recal: The percentage of the positive predictions among all the positive examples.
-<center>Center the text.</center>
+<p align="center">Center the text.</p>
